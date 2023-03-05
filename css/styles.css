@@ -9,7 +9,7 @@
 
 @font-face{
   font-family: myfont;
-  src: url(/PROJECTINDIVIDUEEL_AXEL/assets/TURNB___.TTF);
+  src: url(/assets/TURNB___.TTF);
 }
 *,
 html {
@@ -66,7 +66,7 @@ li a {
 }
 
 .achtergrond {
-  background-image: url(/PROJECTINDIVIDUEEL_AXEL/images/achtergrond.png);
+  background-image: url(/images/achtergrond.png);
 }
 
 .logo3 {
@@ -92,7 +92,7 @@ li a {
 header {
   width: 100%;
   height: 5rem;
-  background-image: url(/PROJECTINDIVIDUEEL_AXEL/images/achtergrond.png);
+  background-image: url(/images/achtergrond.png);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -207,7 +207,7 @@ section p {
   filter: drop-shadow(0 0 5px rgba(14, 13, 13, 0.1));
   position: fixed;
   bottom: 0;
-  background-image: url(/PROJECTINDIVIDUEEL_AXEL/images/achtergrond.png);
+  background-image: url(/images/achtergrond.png);
   padding-top: 0.5rem;
 }
 
