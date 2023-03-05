@@ -9,7 +9,7 @@
 
 @font-face{
   font-family: myfont;
-  src: url(../assets/TURNB___.TTF);
+  src: url(/assets/TURNB___.TTF);
 }
 *,
 html {
