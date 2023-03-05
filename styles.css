@@ -8,9 +8,10 @@
 @import url('https://fonts.cdnfonts.com/css/graffiti-font');
 
 @font-face{
-  font-family: myfont;
-  src: url(/assets/TURNB___.TTF);
+  font-family: "myfont";
+  src: url(../assets/TURNB___.TTF);
 }
+
 *,
 html {
   padding: 0px;
